@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.atguigu.gulimail.product.entity.AttrAttrgroupRelationEntity;
-import com.atguigu.gulimail.product.service.AttrAttrgroupRelationService;
+import com.atguigu.gulimall.product.entity.AttrAttrgroupRelationEntity;
+import com.atguigu.gulimall.product.service.AttrAttrgroupRelationService;
 import com.atguigu.common.utils.PageUtils;
 import com.atguigu.common.utils.R;
 

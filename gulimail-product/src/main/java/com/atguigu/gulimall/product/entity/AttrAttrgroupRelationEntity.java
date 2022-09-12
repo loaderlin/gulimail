@@ -1,4 +1,4 @@
-package com.atguigu.gulimail.product.entity;
+package com.atguigu.gulimall.product.entity;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
@@ -20,7 +20,7 @@ public class AttrAttrgroupRelationEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	/**
-	 * id
+	 * id 这是主键
 	 */
 	@TableId
 	private Long id;

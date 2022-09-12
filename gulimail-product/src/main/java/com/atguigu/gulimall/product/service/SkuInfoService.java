@@ -1,8 +1,8 @@
-package com.atguigu.gulimail.product.service;
+package com.atguigu.gulimall.product.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.atguigu.common.utils.PageUtils;
-import com.atguigu.gulimail.product.entity.SkuInfoEntity;
+import com.atguigu.gulimall.product.entity.SkuInfoEntity;
 
 import java.util.Map;
 

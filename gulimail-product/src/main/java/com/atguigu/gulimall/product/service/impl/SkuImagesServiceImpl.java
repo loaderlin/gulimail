@@ -1,4 +1,4 @@
-package com.atguigu.gulimail.product.service.impl;
+package com.atguigu.gulimall.product.service.impl;
 
 import org.springframework.stereotype.Service;
 import java.util.Map;
@@ -8,9 +8,9 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.atguigu.common.utils.PageUtils;
 import com.atguigu.common.utils.Query;
 
-import com.atguigu.gulimail.product.dao.SkuImagesDao;
-import com.atguigu.gulimail.product.entity.SkuImagesEntity;
-import com.atguigu.gulimail.product.service.SkuImagesService;
+import com.atguigu.gulimall.product.dao.SkuImagesDao;
+import com.atguigu.gulimall.product.entity.SkuImagesEntity;
+import com.atguigu.gulimall.product.service.SkuImagesService;
 
 
 @Service("skuImagesService")

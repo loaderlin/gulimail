@@ -1,4 +1,4 @@
-package com.atguigu.gulimail.product.controller;
+package com.atguigu.gulimall.product.controller;
 
 import java.util.Arrays;
 import java.util.Map;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.atguigu.gulimail.product.entity.CommentReplayEntity;
-import com.atguigu.gulimail.product.service.CommentReplayService;
+import com.atguigu.gulimall.product.entity.CommentReplayEntity;
+import com.atguigu.gulimall.product.service.CommentReplayService;
 import com.atguigu.common.utils.PageUtils;
 import com.atguigu.common.utils.R;
 
