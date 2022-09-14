@@ -1,4 +1,10 @@
 spring:
+  application:
+    name: gulimall-coupon
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
   datasource:
     url: jdbc:mysql://1.117.245.105:3306/gulimail_sms
     username: root
