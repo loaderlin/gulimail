@@ -20,10 +20,6 @@ mybatis-plus:
     db-config:
       id-type: auto
 
-coupon:
-  user:
-    name: rocky.lin
-    age: 100
 
 
 server:
